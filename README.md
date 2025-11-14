@@ -9,47 +9,20 @@ This is not a full course or tutorial series, but a comprehensive reference reso
 
 > ✨ This section will continue to grow as more topics are added:
 
-- [Setup Java](#setup-java-locally)
-- [Run Java Code](#running-java-code-vs-code--cli)
-- [Flowcharts and Pseudocode](flowcharts-and-pseudocode)
-- [Variables And Data Types](variables-and-datatypes)
-- [Operators](operators)
-- [Conditional Statements](conditional-statements)
-- [Loops (Flow Control)](loops)
+- **Java basics**
+    - [Setup Java Locally](java-docs/java-setup)
+    - [Introduction to Java](java-docs/introduction-to-java)
+    - [Differences Between JDK, JRE and JVM](java-docs/jdk-jre-jvm)
+- **Java Programming Lang**
+    - [Flowcharts and Pseudocode](flowcharts-and-pseudocode)
+    - [Variables And Data Types](variables-and-datatypes)
+    - [Operators](operators)
+    - [Conditional Statements](conditional-statements)
+    - [Loops (Flow Control)](loops)
 
 ## Related Repositories
 - [Java Mini Projects](https://github.com/itsjomon/java-mini-projects)
 - [CS Fundamentals](https://github.com/itsjomon/cs-fundamentals)
 
-## Setup Java Locally
-
-### Install JDK
-
-Download and install from [www.oracle.com](https://www.oracle.com/java/technologies/downloads/).
-
-### Set JAVA Environment Variable
-
-Follow this guide: [GeeksforGeeks – Setting Environment in Java](https://www.geeksforgeeks.org/java/setting-environment-java/)
-
-Verify:
-```bash
-java -version
-javac -version
-```
-
-## Running Java Code (VS Code & CLI)
-
-- Using VS Code
-    - Install the **Java Extension Pack** from the Extensions tab.
-    - Open your `.java` file.
-    - Click "Run" or use shortcut `Ctrl` + `F5` to execute.
-
-- Using Command Line
-    ```bash
-    javac Main.java   # Compile
-    java Main         # Run
-    ```
-
 ## License
-
 Licensed under the [MIT License](LICENSE).
