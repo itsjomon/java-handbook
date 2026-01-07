@@ -8,6 +8,7 @@ A structured collection of notes, code examples, and exercises for learning Java
 - [Flowcharts and Pseudocode](flowcharts-and-pseudocode)
 - [Variables And Data Types](variablesanddatatypes)
 - [Operators](operators)
+- [Conditional Statements](conditionalstatements)
     
 ## License
 Licensed under the [MIT License](LICENSE).
