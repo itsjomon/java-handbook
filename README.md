@@ -9,6 +9,7 @@ A structured collection of notes, code examples, and exercises for learning Java
 - [Variables And Data Types](variablesanddatatypes)
 - [Operators](operators)
 - [Conditional Statements](conditionalstatements)
+- [Loops (Flow Control)](loops)
     
 ## License
 Licensed under the [MIT License](LICENSE).
