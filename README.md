@@ -10,6 +10,8 @@ A structured collection of notes, code examples, and exercises for learning Java
 - [Operators](operators)
 - [Conditional Statements](conditionalstatements)
 - [Loops (Flow Control)](loops)
+- [Patterns](patterns)
+    - [Part 1](patterns/part1) 
     
 ## License
 Licensed under the [MIT License](LICENSE).
