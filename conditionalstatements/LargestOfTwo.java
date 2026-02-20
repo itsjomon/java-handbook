@@ -6,11 +6,11 @@ public class LargestOfTwo {
         int b = 3;
         if (a>=b) {
             System.out.println("a is greater");
-        } else {
+        }
+        else {
             System.out.println("b is greater");
         }
     }
 }
 
-// print largest of 2 numbers
-// a = 1, b = 3
+// Print the largest of two numbers (a = 1, b = 3)

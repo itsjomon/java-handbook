@@ -15,4 +15,4 @@ public class OneToN {
     }
 }
 
-// print numbers from 1 to n
+// print numbers from 1 to n, where n is provided by the user as input.

@@ -9,9 +9,12 @@ public class OddOrEven {
 
         if (num % 2 == 0) {
             System.out.println("Even");
-        } else {
+        }
+        else {
             System.out.println("Odd");
         }
         sc.close();
     }
 }
+
+// print if a number is Odd or Even, Input from user

@@ -21,6 +21,7 @@ public class StarPattern2 {
 }
 
 /*
+Print the following pattern:
 
 * 
 * * 
@@ -31,5 +32,4 @@ public class StarPattern2 {
 * * * 
 * * 
 *
-
  */

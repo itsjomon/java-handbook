@@ -1,5 +1,6 @@
 # Java Programming & DSA Handbook
-A structured collection of notes, code examples, and exercises for learning Java programming and Data Structures & Algorithms. Each topic combines theory with practical implementations for effective learning.
+
+This repository contains notes and code samples regarding **Java programming** and **Data Structures & Algorithms** that I created while learning.
 
 ## Table of Contents
 
@@ -12,6 +13,7 @@ A structured collection of notes, code examples, and exercises for learning Java
 - [Loops (Flow Control)](loops)
 - [Patterns](patterns)
     - [Part 1](patterns/part1) 
-    
+
 ## License
+
 Licensed under the [MIT License](LICENSE).

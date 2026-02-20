@@ -12,7 +12,7 @@ public class IncomeTaxCalc {
             tax = 0;
         }
         else if (inc >= 500000 && inc < 1000000) {
-            tax = (int) (inc * 0.2);
+            tax = (int) (inc * 0.2); // typecasting to int because tax is of int type and inc*0.2 is of double type
         }
         else {
             tax = (int) (inc * 0.3);
@@ -21,7 +21,6 @@ public class IncomeTaxCalc {
         sc.close();
     }
 }
-
 
 /*
 Income Tax Calculator

@@ -31,5 +31,4 @@ public class PrimeOrNot {
     }
 }
 
-// Check if a number is prime or not
-// prime: 2, 3, 5, 7, 11, etc...
+// Check if a number is prime or not (a prime number is a number that is only divisible by 1 and itself)

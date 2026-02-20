@@ -1,6 +1,6 @@
 package loops;
 
-public class Main {
+public class LoopBasics {
     public static void main(String[] args) {
         
         // while Loop
@@ -11,12 +11,10 @@ public class Main {
         // }
 
 
-
         // for Loop
         // for(int i=1; i <= 10; i++) {
         //     System.out.println("Hello World!");
         // }
-
 
 
         // do while Loop
@@ -27,22 +25,20 @@ public class Main {
         // } while (counter <= 10);
 
 
-
         // Break Statement
         // for (int i=1; i<=5; i++) {
         //     if(i == 3) {
-        //         break;
+        //         break; // Exit the loop when i is 3
         //     }
         //     System.out.println(i);
         // }
         // System.out.println("Out of the loop");
 
 
-
         // Continue Statement
         for (int i=1; i<=5; i++) {
             if(i == 3) {
-                continue;
+                continue; // Skip 3 and continue with the next iteration
             }
             System.out.println(i);
         }

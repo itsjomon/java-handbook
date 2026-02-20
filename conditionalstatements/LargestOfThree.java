@@ -16,5 +16,4 @@ public class LargestOfThree {
     }
 }
 
-// print the largest of 3
-// A = 1, B = 3, C = 6
+// Print the largest of three numbers (A = 1, B = 3, C = 6)

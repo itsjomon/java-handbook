@@ -4,35 +4,41 @@
 - **Pseudocode** - Pseudocode is a detailed yet readable description of what a computer program or algorithm should do.
 
 ## Components
-<img src="./assets/components.png" alt="Components" width="400" height="400">
+
+<img src="./assets/components.png" alt="Components" height="400" style="width: auto;">
 
 ## 1. Sum of Two Numbers
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input numbers, a & b
 3. Calculate sum = a + b
 4. Print sum
 5. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans1.png" alt="Flowchart-1" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans1.png" alt="Flowchart-1" height="400" style="width: auto;">
 
 ## 2. Calculate Simple Interest
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input principal (p), rate (r) & time (t)
 3. Calculate SI = (p * r * t) / 100
 4. Print SI
 5. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans2.png" alt="Flowchart-2" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans2.png" alt="Flowchart-2" height="400" style="width: auto;">
 
 ## 3. Find Maximum of 3 Numbers
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input a, b & c
 3. <br>
@@ -51,17 +57,19 @@
     ```
 4. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans3.png" alt="Flowchart-3" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans3.png" alt="Flowchart-3" height="400" style="width: auto;">
 
 ## 4. Find If a Number is Prime or Not
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input n
 3. Let div = 2
-4. <br> 
-  
+4. <br>
+
     ```
     While div < n do
       If n % div == 0 then
@@ -73,12 +81,14 @@
 5. Print "prime"
 6. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans4.png" alt="Flowchart-4" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans4.png" alt="Flowchart-4" height="400" style="width: auto;">
 
 ## 5. Sum of First N Natural Numbers
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input n
 3. Let val = 1 & sum = 0
@@ -92,24 +102,28 @@
 5. Print sum
 6. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans5.png" alt="Flowchart-5" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans5.png" alt="Flowchart-5" height="400" style="width: auto;">
 
 ## 6. Flowchart to calculate the area of a circle
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input radius r
 3. Calculate area = 3.14 * r * r
 4. Print area
 5. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans6.png" alt="Flowchart-6" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans6.png" alt="Flowchart-6" height="400" style="width: auto;">
 
 ## 7. Flowchart to find the greatest from 2 numbers.
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Input A, B
 3. <br>
@@ -122,18 +136,20 @@
    ```
 4. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans7.png" alt="Flowchart-7" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans7.png" alt="Flowchart-7" height="400" style="width: auto;">
 
 ## 8. Flowchart to print the Even numbers between 9 and 100.
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Set I = 10
 3. Print I
 4. Set I = I + 2
 5. <br>
-   
+
    ```
    If I <= 98 then
      Go to step 3
@@ -142,12 +158,14 @@
    ```
 6. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans8.png" alt="Flowchart-8" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans8.png" alt="Flowchart-8" height="400" style="width: auto;">
 
 ## 9. Flowchart for calculating the average from 25 exam scores.
 
-**Pseudocode**
+### Pseudocode
+
 1. Start
 2. Set Sum = 0, C = 0
 3. Enter Exam Score, S
@@ -165,5 +183,6 @@
     ```
 7. Exit
 
-**Flowchart**<br>
-<img src="./assets/ans9.png" alt="Flowchart-9" width="300" height="400">
+### Flowchart
+
+<img src="./assets/ans9.png" alt="Flowchart-9" height="400" style="width: auto;">

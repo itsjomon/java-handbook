@@ -9,10 +9,11 @@ public class BreakQS {
         do {
             System.out.print("enter your number: ");
             int n = sc.nextInt();
-            
+
             if ( n % 10 == 0) {
-                break;
+                break; // Exit the loop if the number is a multiple of 10
             }
+
             System.out.println(n);
         } while (true);
 

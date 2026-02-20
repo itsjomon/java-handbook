@@ -1,9 +1,9 @@
 package conditionalstatements;
 
-public class Basics {
+public class ConditionalBasics {
     public static void main(String[] args) {
 
-        // if else statement
+        // if else Statement
         // int age = 16;
         // if (age >= 18) {
         //     System.out.println("adult");
@@ -14,10 +14,9 @@ public class Basics {
         // else {
         //     System.out.println("not adult");
         // }
-
         
 
-        // else if statement
+        // else if Statement
         // int age = 16;
         // if (age >= 18) {
         //     System.out.println("adult");
@@ -30,15 +29,13 @@ public class Basics {
         // }
 
 
-
         // Ternary Operator
         // int num = 4;
         // String type = ((num%2) == 0)? "even" : "odd";
         // System.out.println(type);
 
 
-
-        // Switch Statement
+        // switch Statement
         // int num = 2;
         // switch(num) {
         //     case 1 : System.out.println("tea");

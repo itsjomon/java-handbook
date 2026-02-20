@@ -4,12 +4,20 @@ public class BinaryOperators {
     public static void main(String[] args) {
         int A = 10;
         int B = 5;
-        System.out.println("add = " + (A+B)); // 15
-        System.out.println("subtract = " + (A-B)); // 5
-        System.out.println("multiple = " + (A*B)); // 50
-        System.out.println("divide = " + (A/B)); // 2
-        System.out.println("modulo(remainder) = " + (A%B)); // Modulus (Remainder) // 0
+        System.out.println("add = " + (A+B));
+        System.out.println("subtract = " + (A-B));
+        System.out.println("multiple = " + (A*B));
+        System.out.println("divide = " + (A/B));
+        System.out.println("modulo (remainder) = " + (A%B)); // Modulus (Remainder)
     }
 }
 
-// Binary Operators
+/*
+Binary Operators
+
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+5. Modulus (%): Returns the remainder of a division operation.
+ */

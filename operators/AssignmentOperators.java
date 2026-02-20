@@ -4,9 +4,9 @@ public class AssignmentOperators {
     public static void main(String[] args) {
         int a = 10;
         // a = a + 10;
-        a += 10; //faster execution 
+        a += 10; // Faster execution 
         int b = 5;
-        b *= 5; //faster execution
+        b *= 5; // Faster execution
         System.out.println(a); // 20
         System.out.println(b); // 25
 
@@ -16,13 +16,12 @@ public class AssignmentOperators {
 /*
 Assignment Operators
 
-| Operator | Description              | Example   |
-|----------|--------------------------|-----------|
-| =        | Assignment               | a = b     |
-| +=       | Add and assign           | a += b    |
-| -=       | Subtract and assign      | a -= b    |
-| *=       | Multiply and assign      | a *= b    |
-| /=       | Divide and assign        | a /= b    |
-| %=       | Modulus and assign       | a %= b    |
-
-*/
+| Operator | Description              |
+|----------|--------------------------|
+| =        | Assignment               |
+| +=       | Add and assign           |
+| -=       | Subtract and assign      |
+| *=       | Multiply and assign      |
+| /=       | Divide and assign        |
+| %=       | Modulus and assign       |
+ */

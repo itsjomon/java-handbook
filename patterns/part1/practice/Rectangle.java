@@ -12,10 +12,10 @@ public class Rectangle {
 }
 
 /*
+Print the following pattern:
 
 *****
 *****
 *****
 *****
-
  */

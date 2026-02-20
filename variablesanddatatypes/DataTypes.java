@@ -3,7 +3,7 @@ package variablesanddatatypes;
 public class DataTypes {
     public static void main(String[] args) {
         byte b = 8;
-        System.out.println("Byte value: " + b); // Byte value: 8
+        System.out.println("Byte value: " + b);
 
         char ch = 'a';
         System.out.println("Char value: " + ch);
@@ -11,26 +11,27 @@ public class DataTypes {
         boolean var = false;
         System.out.println("Boolean value: " + var);
 
-        float price = 10.5f;
+        float price = 10.5f; // float literals must end with 'f' or 'F'
         System.out.println("Float value: " + price);
 
         int num = 25;
         System.out.println("Int value: " + num);
 
-        long largeNum = 123456789L;
-        System.out.println("Long value: " + largeNum); // long is for large whole numbers (integers), like 10000000000L
+        long largeNum = 123456789L; // long literals must end with 'L' or 'l' to indicate it's a long type
+        System.out.println("Long value: " + largeNum);
 
-        double preciseNum = 99.99999;
-        System.out.println("Double value: " + preciseNum); // double is for decimal numbers with high precision, like 3.14159265358979
+        double preciseNum = 99.99999; // double is for decimal numbers with high precision, like 3.14159265358979
+        System.out.println("Double value: " + preciseNum); 
 
         short n = 240;
         System.out.println("Short value: " + n);
     }
 }
 
-// Data Types (Primitive and Non-Primitive)
 
 /*
+Data Types (Primitive and Non-Primitive)
+
 Primitive Data Types:
 1. byte    : 1 byte   - Small whole numbers (–128 to 127)
 2. short   : 2 bytes  - Medium whole numbers (–32,768 to 32,767)
@@ -40,13 +41,13 @@ Primitive Data Types:
 6. double  : 8 bytes  - Precise decimal numbers (default for decimals)
 7. char    : 2 bytes  - Single character (e.g., 'a', 'Z', '@')
 8. boolean : 1 byte   - true or false
-*/
 
-/*
+
 Non-Primitive Data Types:
-1. String     : Sequence of characters (e.g., "Hello")
-2. Array      : Collection of elements of the same type
-3. Class      : Blueprint for creating objects
-4. Object     : Instance of a class
-5. Interface  : Abstract type that defines methods to implement
-*/
+1. String    : Sequence of characters (e.g., "Hello")
+2. Array     : Collection of elements of the same type
+3. Class     : Blueprint for creating objects
+4. Object    : Instance of a class
+5. Interface : Abstract type that defines methods to implement
+ */
+

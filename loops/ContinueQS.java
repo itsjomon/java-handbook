@@ -7,19 +7,24 @@ public class ContinueQS {
         Scanner sc = new Scanner(System.in);
 
         do {
-            System.out.print("enter your number: ");
+            System.out.print("Enter your number (0 to exit): ");
             int n = sc.nextInt();
-
-            if ( n % 10 == 0) {
-                continue;
+            
+            // Check for exit condition first
+            if (n == 0) {
+                System.out.println("Exiting program...");
+                break;
             }
-            System.out.println("number was : " + n);
+            
+            if (n % 10 == 0) {
+                continue;  // Skip multiples of 10
+            }
+            
+            System.out.println("Number was: " + n);
         } while (true);
-
-        // sc.close(); // Scanner is not closed here because the loop runs forever (unreachable code)
+        
+        sc.close();
     }
 }
 
 // Display all numbers entered by user except multiples of 10
-
-// Continue Statement

@@ -7,11 +7,9 @@ public class TypeCasting {
         System.out.println(b); // This will print the truncated value: 25
 
         char ch = 'a';
-        int number = ch;
+        int number = ch; // char -> int (ASCII value of 'a' is 97)
         System.out.println(number); // Print the ASCII value of the character 'a'
     }
 }
 
-/* Type Casting
-also known as narrowing/explicit conversion
-*/
+// Type Casting is also known as narrowing/explicit conversion.

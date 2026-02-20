@@ -9,6 +9,9 @@ public class PassOrFail {
     }
 }
 
-// check if a student will pass or fail using ternary operator
-// marks >= 33 : pass
-// marks < 33 : fail
+/*
+Check if a student will pass or fail using ternary operator
+
+marks >= 33 : pass
+marks < 33 : fail
+ */

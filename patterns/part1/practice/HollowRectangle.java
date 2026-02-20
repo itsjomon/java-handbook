@@ -17,10 +17,10 @@ public class HollowRectangle {
 }
 
 /*
+print the following pattern:
 
 * * * * * 
 *       *
 *       *
 * * * * *
-
  */

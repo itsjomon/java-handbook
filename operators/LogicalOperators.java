@@ -3,16 +3,16 @@ package operators;
 public class LogicalOperators {
     @SuppressWarnings("unused")
     public static void main(String[] args) {
-        //logical and
+        // logical and
         System.out.println((3>2) && (5>0)); // true
         System.out.println((3<2) && (4>1)); // false
 
-        //logical or
+        // logical or
         System.out.println((3>2) || (5>0)); // true
         System.out.println((3<2) || (4>1)); // true
         System.out.println((1>2) || (4<1)); // false
 
-        //logical not
+        // logical not
         System.out.println(!(5>0)); // false
     }
 }
@@ -20,11 +20,12 @@ public class LogicalOperators {
 /*
 Logical Operators
 
-| Operator | Description   | Example         |
-|----------|---------------|-----------------|
-| &&       | Logical AND   | a > 5 && b < 10 |
-| ||       | Logical OR    | a > 5 || b < 10 |
-| !        | Logical NOT   | !isTrue         |
+| Operator | Description   |
+|----------|---------------|
+| &&       | Logical AND   |
+| ||       | Logical OR    |
+| !        | Logical NOT   |
+
 
 && (Logical AND)
 | Statement 1 | Statement 2 | Result |
@@ -34,6 +35,7 @@ Logical Operators
 | F           | T           | F      |
 | F           | F           | F      |
 
+
 || (Logical OR)
 | Statement 1 | Statement 2 | Result |
 |-------------|-------------|--------|
@@ -42,10 +44,10 @@ Logical Operators
 | F           | T           | T      |
 | F           | F           | F      |
 
+
 ! (Logical NOT)
 | Statement | Result |
 |-----------|--------|
 | T         | F      |
 | F         | T      |
-
  */

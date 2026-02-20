@@ -30,14 +30,16 @@ do {
 } while(condition);
 ```
 
-## Break Statement
+## break Statement
+
 to exit the loop
 
 ```java
 break;
 ```
 
-## Continue Statement
+## continue Statement
+
 to skip an iteration
 
 ```java

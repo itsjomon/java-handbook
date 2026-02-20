@@ -15,7 +15,8 @@ public class SquarePattern {
 }
 
 /*
-print SQUARE pattern (4*4)
+Print SQUARE pattern (4*4):
+
 ****
 ****
 ****

@@ -11,8 +11,9 @@ public class Star {
 
 /*
 Print the pattern:
+
 ****
 ***
 **
 *
-*/
+ */

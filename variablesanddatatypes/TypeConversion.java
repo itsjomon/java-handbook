@@ -8,14 +8,12 @@ public class TypeConversion {
     }
 }
 
-// Type Coversion
-
 /*
+Type conversion is also known as Implicit/Widening conversion.
+
 Conversion happens when :
 1. type compatible
 2. destination type > source type
-*/
 
-// byte -> short -> int -> float -> long -> double
-
-//Type conversion, Implicit conversion, Widening conversion both are same.
+byte -> short -> int -> float -> long -> double
+ */
