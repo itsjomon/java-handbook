@@ -21,4 +21,4 @@ sum = a + b;
 
 ## Reading Material
 
-[Operator Precedence](Operator-precedence.pdf)
+[Operator Precedence](Operator-Precedence.pdf)
