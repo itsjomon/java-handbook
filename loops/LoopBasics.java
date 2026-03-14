@@ -3,7 +3,7 @@ package loops;
 public class LoopBasics {
     public static void main(String[] args) {
         
-        // while Loop
+        // ===== while Loop =====
         // int counter = 1;
         // while(counter <= 100) {
         //     System.out.println("Hello World!");
@@ -11,13 +11,13 @@ public class LoopBasics {
         // }
 
 
-        // for Loop
+        // ===== for Loop =====
         // for(int i=1; i <= 10; i++) {
         //     System.out.println("Hello World!");
         // }
 
 
-        // do while Loop
+        // ===== do-while Loop =====
         // int counter = 1;
         // do {
         //     System.out.println("Hello World!");
@@ -25,7 +25,7 @@ public class LoopBasics {
         // } while (counter <= 10);
 
 
-        // Break Statement
+        // ===== Break Statement =====
         // for (int i=1; i<=5; i++) {
         //     if(i == 3) {
         //         break; // Exit the loop when i is 3
@@ -35,7 +35,7 @@ public class LoopBasics {
         // System.out.println("Out of the loop");
 
 
-        // Continue Statement
+        // ===== Continue Statement =====
         for (int i=1; i<=5; i++) {
             if(i == 3) {
                 continue; // Skip 3 and continue with the next iteration

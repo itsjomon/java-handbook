@@ -8,6 +8,7 @@ public class Ans5 {
         System.out.print("Enter the year: ");
         int year = sc.nextInt();
 
+         // ===== Method 1: Nested if-else =====
         // if( year % 4 == 0) {
         //     if( year % 100 == 0) {
         //         if( year % 400 == 0) {
@@ -23,7 +24,7 @@ public class Ans5 {
         // }
 
 
-
+         // ===== Method 2: else-if ladder =====
         if( year % 400 == 0) { // divisible by 400 is also divisible by 100 and 4
             System.out.println(year+" is a leap year");
         } else if (year % 100 == 0) {
@@ -35,7 +36,7 @@ public class Ans5 {
         }
 
 
-
+        // ===== Method 3: Boolean logic =====
         // boolean x = (year % 4) == 0;
         // boolean y = (year % 100) != 0;
         // boolean z= ((year % 100 == 0) && (year % 400 == 0));

@@ -2,25 +2,25 @@ package operators;
 
 public class UnaryOperators {
     public static void main(String[] args) {
-        // Pre Increment
+        // ===== Pre-Increment =====
         // int a = 10;
         // int b = ++a;
         // System.out.println(a); // 11
         // System.out.println(b); // 11
 
-        // Post Increment
+        // ===== Post-Increment =====
         // int a = 10;
         // int b = a++;
         // System.out.println(a); // 11
         // System.out.println(b); // 10
 
-        // Pre Decrement
+        // ===== Pre-Decrement =====
         int a = 10;
         int b = --a;
         System.out.println(a); // 9
         System.out.println(b); // 9
 
-        // Post Decrement
+        // ===== Post-Decrement =====
         // int a = 10;
         // int b = a--;
         // System.out.println(a); // 9

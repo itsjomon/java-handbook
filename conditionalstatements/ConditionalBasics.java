@@ -3,7 +3,7 @@ package conditionalstatements;
 public class ConditionalBasics {
     public static void main(String[] args) {
 
-        // if else Statement
+        // ===== if-else Statement =====
         // int age = 16;
         // if (age >= 18) {
         //     System.out.println("adult");
@@ -16,7 +16,7 @@ public class ConditionalBasics {
         // }
         
 
-        // else if Statement
+        // ===== else-if Statement =====
         // int age = 16;
         // if (age >= 18) {
         //     System.out.println("adult");
@@ -29,13 +29,13 @@ public class ConditionalBasics {
         // }
 
 
-        // Ternary Operator
+        // ===== Ternary Operator =====
         // int num = 4;
         // String type = ((num%2) == 0)? "even" : "odd";
         // System.out.println(type);
 
 
-        // switch Statement
+        // ===== switch Statement =====
         // int num = 2;
         // switch(num) {
         //     case 1 : System.out.println("tea");

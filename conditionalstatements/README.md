@@ -11,7 +11,7 @@ switch
 ## if else Statement
 
 ```java
-if(condtion) {
+if(condition) {
     // do something
 }
 
@@ -23,7 +23,7 @@ else {
 ## else if Statement
 
 ```java
-if(condtion 1) {
+if(condition 1) {
     // do something
 }
 
