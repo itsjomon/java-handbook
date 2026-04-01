@@ -1,6 +1,6 @@
 # Java Programming & DSA Handbook
 
-This repository contains notes and code samples regarding **Java programming** and **Data Structures & Algorithms** that I created while learning.
+A complete guide to Java programming and Data Structures & Algorithms, covering everything from fundamentals to advanced DSA concepts.
 
 ## Table of Contents
 
@@ -13,6 +13,11 @@ This repository contains notes and code samples regarding **Java programming** a
 - [Loops (Flow Control)](loops)
 - [Patterns](patterns)
     - [Part 1](patterns/part1) 
+
+## Related Repositories
+
+- [Java Mini Projects](https://github.com/itsjomon/java-mini-projects)
+- [CS Fundamentals](https://github.com/itsjomon/cs-fundamentals)
 
 ## License
 
