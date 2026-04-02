@@ -6,6 +6,9 @@ A complete guide to Java programming and Data Structures & Algorithms, covering 
 
 > ✨ Continuously updated with new topics:
 
+- [Setup Java Locally](setup.md)
+- [Introduction to Java](java-intro.md)
+- [Differences Between JDK, JRE and JVM](jdk-jre-jvm.md)
 - [Flowcharts and Pseudocode](flowcharts-and-pseudocode)
 - [Variables And Data Types](variablesanddatatypes)
 - [Operators](operators)
